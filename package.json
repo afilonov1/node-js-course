@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "name": "js-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afilonov1/node-js-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afilonov1/node-js-course/issues"
+  },
+  "homepage": "https://github.com/afilonov1/node-js-course#readme",
+  "description": ""
+}
